@@ -1,0 +1,6 @@
+framework module Pods_RazorPayWork {
+  umbrella header "Pods-RazorPayWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

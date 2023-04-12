@@ -1,0 +1,6 @@
+framework module Pods_RazorPayWork_RazorPayWorkUITests {
+  umbrella header "Pods-RazorPayWork-RazorPayWorkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
